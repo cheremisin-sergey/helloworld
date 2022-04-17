@@ -1,3 +1,3 @@
-module github.com/helloworld
+module github.com/cheremisin-sergey/helloworld
 
 go 1.17
